@@ -1,0 +1,62 @@
+#nav{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+body { 
+    background-color: #e6fae9;
+    color: #237019;
+    font-family: Arial, Verdana, sans-serif; }
+
+nav { 
+        font-weight: bold;
+        font-size: 1.25em;
+        word-spacing: normal;
+    }
+        
+h1 { 
+    text-align:justify;
+    background-color: #48d466;
+    color: #E6E6FA;
+    line-height: 200%;
+    font-family: Georgia, "Times New Roman", serif;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #CCCCCC; }
+
+h2 { 
+    background-color: #bfd4ae;
+    color: #02831e;
+    font-family: Georgia, "Times New Roman", serif;
+    text-align: center; }
+
+    
+    #ulist
+    {
+        list-style-type: none;
+    }
+    
+        .list{
+            display: inline-table;
+            margin-right: 20px;
+        }
+      .links{
+        text-decoration: none;
+        color: rgb(0, 128, 122);
+        padding: 5px;
+        border: 15px salmon;
+        border-radius: 15px;
+      }  
+      .links:hover{
+        background-color:  #19702c;
+        color:#f8f8fa;
+    }
+      .links :visited{
+    
+        color: rgb(226, 43, 43);
+    }
+    label{
+        font-size: x-large;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+   
