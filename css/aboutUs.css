@@ -31,6 +31,9 @@ h2 {
 
     h3{
         color: #000000;
+        padding: left auto;
+        padding-right: auto; 
+        margin: 70px;
       }
       
     #ulist
